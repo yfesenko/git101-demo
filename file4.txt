@@ -1,1 +1,2 @@
 file 4 line 1
+more into file4
